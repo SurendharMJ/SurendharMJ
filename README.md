@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SurendharMJ
-- 👀 I’m interested in how semiconductors shape up the world with the evolution of Artificial Intelligence.
-- 🌱 I’m currently learning Artificial Intelligence at the University of Edinburgh.
-- 💞️ I’m looking to collaborate on people who have similar mindset in these areas.
-- 📫 You can reach out to me in Linkedin. Linkedin link :- https://www.linkedin.com/in/surendhar-jagannathan-023662226/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am good at everything but great at only few things. 
+👋 Hi, I’m @SurendharMJ  
+👀 I’m passionate about how semiconductors are transforming the world with the evolution of Artificial Intelligence.  
+🌱 Currently, I’m pursuing a Master's in Artificial Intelligence at the University of Edinburgh.  
+💞️ I’m eager to collaborate with like-minded individuals on innovative projects in AI and semiconductors.  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/surendhar-jagannathan-023662226/).  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy solving complex problems and believe in the power of learning something new every day.  
 
 <!---
 SurendharMJ/SurendharMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
